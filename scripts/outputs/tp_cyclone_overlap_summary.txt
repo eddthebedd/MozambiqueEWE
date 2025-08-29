@@ -1,0 +1,14 @@
+TP-based cyclone co-occurrence summary
+tp_total: 3124
+tp_with_concurrent_%: 2.94
+tp_with_lag1_%: 3.01
+tp_with_conc_or_lag1_%: 3.04
+tp_with_pm1_%: 3.14
+exposure_concurrent_rate_%: 3.17
+exposure_lag1_rate_%: 3.17
+exposure_conc_or_lag1_rate_%: 3.33
+exposure_pm1_rate_%: 3.49
+
+Confusion matrix [ [TN, FP], [FN, TP] ]:
+[[3632   38]
+ [  58 3124]]

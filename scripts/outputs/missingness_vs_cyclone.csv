@@ -1,0 +1,4 @@
+,n_exposed,n_unexposed,missing_rate_exposed_%,missing_rate_unexposed_%,diff_%,chi2,p_value
+concurrent,225.0,6915.0,0.89,1.01,-0.12,0.0,1.0
+lag1,225.0,6915.0,0.89,1.01,-0.12,0.0,1.0
+pm1,261.0,6879.0,0.77,1.02,-0.25,0.007,0.9336
